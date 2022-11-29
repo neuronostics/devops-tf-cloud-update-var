@@ -40,7 +40,7 @@ It borrows heavily from the work done by https://github.com/sarathkrish/invoke-t
 ## Example usage
 
 ```
-uses: patrontech/devops-tf-cloud-update@v1.0   
+uses: neuronostics/devops-tf-cloud-update-var@v1   
 with:  
   workSpaceName: MyTestWorkspace  
   organizationName: {{env.organization}}  
